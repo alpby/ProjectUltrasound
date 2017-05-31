@@ -1,15 +1,15 @@
-##**Data Transfer Between Devices Using Ultrasound**
+## **Data Transfer Between Devices Using Ultrasound**
 
 In this project a text message is transmitted through speakers using ultrasound frequencies and it is received via a microphone. To send a message you should run transmit.py first and to receive it run receive.py.
 
-####*MODULES*
+#### *MODULES*
 
 Below you can see the necessary modules and their versions that were used in generating and testing this code:
 
 - PyAudio==0.2.9
 - numpy==1.11.1
 
-####*USAGE*
+#### *USAGE*
 
 These scripts are generated using Python 2.7 and they are tested on OS X El Capitan. You can install necessary packages from terminal using the given command below:
 
